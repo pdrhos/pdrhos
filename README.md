@@ -35,15 +35,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdnhos&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdnhos&layout=compact&theme=tokyonight)
-
----
-
-## 📌 Pinned Projects
-- [🔗 Safira Digital - Billing](https://github.com/grupo-safira/safira-gd-billing)
-- [🔗 Safira Digital - Library](https://github.com/grupo-safira/safira-gd-library)
-- [🔗 Projetos pessoais](https://github.com/pdnhos?tab=repositories)
